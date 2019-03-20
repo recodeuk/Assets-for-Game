@@ -2,8 +2,8 @@
 #Based In World War 1
 ##Please Note they are not fully in order and other Nation names are yet to be put there
 __________________________________________________________________________________________________________________________________
-**Weapons**: 
-**German**
+**Weapons**: <br>
+**German** <br>
 7.58cm Minenwerfer. &nbsp;
 Browning Model 1900 / FN M1900 / Browning No. 1.
 Colt M1911. <br>
@@ -14,7 +14,7 @@ Bangalore Torpedo <br>
 Barreta Model 1915 <br>
 Barreta Model 1918 <br>
 Browning Model 1917 <br>
-**FRENCH**
+**FRENCH** <br>
 Fusante NO.1 <br>
 Fusil-Mitrailleur Modele 1915 CSRG (Chauchat)
 ________________________________________________________________________________________________________________________________
