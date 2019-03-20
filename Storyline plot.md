@@ -6,16 +6,16 @@ ________________________________________________________________________________
 **German**
 7.58cm Minenwerfer. &nbsp;
 Browning Model 1900 / FN M1900 / Browning No. 1.
-Colt M1911. &nbsp;
-Enfield Pattern 1914 (Rifle, .303 Pattern 1914). &nbsp;
-Fusante No.1 (F-1). &nbsp;
-Arisaka Type 38 &nbsp;
-Bangalore Torpedo &nbsp;
-Barreta Model 1915 &nbsp;
-Barreta Model 1918 &nbsp;
-Browning Model 1917 &nbsp;
+Colt M1911. <br>
+Enfield Pattern 1914 (Rifle, .303 Pattern 1914). <br>
+Fusante No.1 (F-1).<br>
+Arisaka Type 38 & <br>
+Bangalore Torpedo <br>
+Barreta Model 1915 <br>
+Barreta Model 1918 <br>
+Browning Model 1917 <br>
 **FRENCH**
-Fusante NO.1
+Fusante NO.1 <br>
 Fusil-Mitrailleur Modele 1915 CSRG (Chauchat)
 ________________________________________________________________________________________________________________________________
 #Currency:
@@ -27,8 +27,8 @@ ________________________________________________________________________________
 #Story line:
 _______________________________________________________________________________________________________________________________
 #Nations:
-United Kingdom
-United States
-Germany
-Austria-Hungary
+United Kingdom <br>
+United States <br>
+Germany <br>
+Austria-Hungary <br>
 _______________________________________________________________________________________________________________________________
