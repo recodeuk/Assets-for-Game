@@ -1,4 +1,4 @@
-[![Join the Server!](https://cdn.discordapp.com/attachments/361593010862948362/557958903309139970/066d9264b6471430204784e33405e009.png)](https://discord.gg/EVMVTBa)
+[![Join the Server!](https://cdn.discordapp.com/attachments/361593010862948362/557958903309139970/066d9264b6471430204784e33405e009.png?size=64)](https://discord.gg/EVMVTBa)
 #Based In World War 1
 ##Please Note they are not fully in order and other Nation names are yet to be put there
 __________________________________________________________________________________________________________________________________
