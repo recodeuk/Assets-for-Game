@@ -26,7 +26,7 @@ Liege<br>
 ________________________________________________________________________________________________________________________________
 #Sides: <br> Alied Powers <br> Centeral Powers <br>
 _______________________________________________________________________________________________________________________________
-#Story line: You are a young man who is 17 about to be old enoght to fight for any war
+#Story line: You are a young man who is 17 about to be old enoght to fight for any war on your birthday "June 28th" The 
 _______________________________________________________________________________________________________________________________
 #Nations: <br>
 United Kingdom <br>
